@@ -25,3 +25,10 @@ division=double/entero
 print(division)
 resta=entero-double
 print(resta)
+##Pedir datos al usuario
+nombre=input("Ingresa tu Nombre Completo \n")
+print(nombre)
+# Nosotros podemos pedir cualquier dato pero todos los
+#datos que pidamos seran valores de tipo string
+#Si queremos usar el dato posteriormente tendremos que convertirlo
+
