@@ -32,3 +32,6 @@ print(nombre)
 #datos que pidamos seran valores de tipo string
 #Si queremos usar el dato posteriormente tendremos que convertirlo
 
+edad=input("Ingresa tu edad \n")
+edad=int(edad)
+print (edad*2)
