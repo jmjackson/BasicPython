@@ -7,9 +7,21 @@ entero=5
 print("Imprimiendo un entero ",entero)
 
 double=2.5
+#Podemos representar cualquier cosa en python con solo indicar la variable
 print("Imprimiendo un double ",double)
 
 cadena="Esta es una cadena de caracteres"
-print(Cadena)
+print(cadena)
 
 #En python no usamos el punto y coma (;)
+
+#En python con las variables podemos hacer operaciones basicas
+#Por ejemplo
+suma=double+entero
+print (suma)
+multiplicacion=double*entero
+print(multiplicacion)
+division=double/entero
+print(division)
+resta=entero-double
+print(resta)
