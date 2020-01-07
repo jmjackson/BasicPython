@@ -2,6 +2,6 @@
 ##regularmente usamos las librerias especificas  de la sigiente manera
 from math import pi # Aqui solo importamos pi
 from math import * # con el asterisco importamos todo
-
+## INvestiga cuantas librerias puedes usar 
 print(pi)
 print(sin(3))
